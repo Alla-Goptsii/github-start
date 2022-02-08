@@ -1,0 +1,2 @@
+# github-start
+for trening
